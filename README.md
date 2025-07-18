@@ -1,5 +1,6 @@
 **Research Experience**
 **Deepfake Detection Using Multimodal Neurosymbolic Frameworks**
+
 Under Prof. Fatma Najar – John Jay College of Criminal Justice
 Jan 2025 – Present
 
@@ -9,6 +10,7 @@ Contributing to the development of a neurosymbolic model to improve explainabili
 Preparing manuscript for submission to PRISM Undergraduate Research Symposium.
 
 **Offensive Language Detection in Online Text**
+
 Under Prof. Vivek Sharma – John Jay College of Criminal Justice
 Oct 2024 – May 2025
 
@@ -18,6 +20,7 @@ Focused on bias mitigation, dataset ethics, and explainable prediction methods.
 Contributed to annotated dataset and visualization dashboard for class imbalance analysis.
 
 **Security Culture in the Workplace: Beyond Compliance**
+
 Under Dr. Mohammad Nizamuddin – Bronx Community College (CUNY)
 Feb 2024 – May 2024
 
